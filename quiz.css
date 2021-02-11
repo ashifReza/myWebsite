@@ -1,0 +1,18 @@
+body{
+    background-color:pink ;
+    color:midnightblue;
+    font-style: italic;
+    font-size:20px;
+    font-weight:bolder;
+    margin-left: 10rem;
+    
+}
+
+#button{
+
+    background-color: rgba(14, 13, 13, 0.945);
+    color: rgb(236, 231, 231);
+    font-size: 18px;
+    padding:5px;
+
+}
